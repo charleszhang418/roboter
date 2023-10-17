@@ -1,0 +1,15 @@
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+/home/charleszhang/ros_prac_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
